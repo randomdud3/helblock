@@ -2,9 +2,9 @@
 
 ## Options
 
-Coolant: Yes/No
-Casting: Strands/Normal - For wires it also explores the option of going with plates -> wires, marked as primitive wires
-Blasting: Basic Ore/Processed Ore/Pellets & Anodes
+- Coolant: Yes/No
+- Casting: Strands/Normal - For wires it also explores the option of going with plates -> wires, marked as primitive wires
+- Blasting: Basic Ore/Processed Ore/Pellets & Anodes
 
 [Results](https://docs.google.com/spreadsheets/d/1QlbUg3IlNOA4VICkuwzKHuj5WAa_RcT8cZUJ2S-w7R0/edit#gid=0&range=A14)
 
